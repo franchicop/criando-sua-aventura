@@ -23,7 +23,7 @@ button {
     display:block;
 }
 
-.main {
+main {
     justify-content: center;
     max-width: 90%;
 }
